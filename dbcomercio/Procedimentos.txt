@@ -1,0 +1,46 @@
+use dbcomercio
+
+--Procedimento mostrar
+create proc spmostrar_categoria
+as
+	select top 200 * from categoria
+	order by idcategoria desc
+go
+
+
+--Procedimento buscar nome
+create proc spbuscar_nome
+@textobuscar varchar(50)
+as 
+	select * from categoria 
+	where nome like @textobuscar + '%'
+go
+
+--Procedimento inserir categ
+create proc spinserir_categoria
+@idcategoria int output,
+@nome varchar(50),
+@descricao varchar(100)
+as
+	insert into categoria (nome, descricao) 
+	values (@nome, @descricao)
+go
+
+--Procedimento editar categ
+create proc speditar_categoria
+@idcategoria int output,
+@nome varchar(50),
+@descricao varchar(100)
+as
+	update categoria 
+	set nome=@nome, descricao=@descricao
+	where idcategoria=@idcategoria
+go
+
+--Procedimento deletar categoria
+create proc spdeletar_categoria
+@idcategoria int 
+as
+	delete from categoria 
+	where idcategoria=@idcategoria
+go
