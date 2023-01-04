@@ -28,7 +28,7 @@ go
 
 --Procedimento editar categ
 create proc speditar_categoria
-@idcategoria int output,
+@idcategoria int,
 @nome varchar(50),
 @descricao varchar(100)
 as

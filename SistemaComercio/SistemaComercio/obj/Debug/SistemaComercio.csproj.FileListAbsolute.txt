@@ -1,0 +1,10 @@
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\SistemaComercio.exe.config
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\SistemaComercio.exe
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\SistemaComercio.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.AssemblyReference.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.SuggestedBindingRedirects.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.Properties.Resources.resources
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.GenerateResource.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.CoreCompileInputs.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.exe
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.pdb
