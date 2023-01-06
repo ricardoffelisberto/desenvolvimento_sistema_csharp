@@ -1,0 +1,6 @@
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaDados\bin\Debug\CamadaDados.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.csproj.AssemblyReference.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaDados\obj\Debug\CamadaDados.pdb

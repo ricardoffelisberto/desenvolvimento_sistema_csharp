@@ -1,0 +1,9 @@
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.AssemblyReference.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CopyComplete
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaNegocio\obj\Debug\CamadaNegocio.pdb

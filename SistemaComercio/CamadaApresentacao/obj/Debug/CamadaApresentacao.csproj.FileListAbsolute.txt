@@ -1,0 +1,13 @@
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.AssemblyReference.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.frmCategoria.resources
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb

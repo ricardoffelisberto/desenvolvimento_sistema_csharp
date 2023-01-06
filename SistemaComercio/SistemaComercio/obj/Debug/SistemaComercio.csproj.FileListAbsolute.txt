@@ -8,3 +8,10 @@ C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Deb
 C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.CoreCompileInputs.cache
 C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.exe
 C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\CamadaApresentacao.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\CamadaNegocio.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\CamadaDados.dll
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\CamadaApresentacao.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\CamadaNegocio.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\bin\Debug\CamadaDados.pdb
+C:\cursos\desenvolvimento_sistema_csharp\SistemaComercio\SistemaComercio\obj\Debug\SistemaComercio.csproj.CopyComplete

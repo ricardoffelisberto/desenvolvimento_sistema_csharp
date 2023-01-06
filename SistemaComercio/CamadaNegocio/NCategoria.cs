@@ -5,11 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using CamadaDados;
 using System.Data;
+using System.Runtime.CompilerServices;
 
 namespace CamadaNegocio {
     public class NCategoria {
         //Metodo Inserir
-        public static string Inserir (string nome, string descricao) {
+        public static string Inserir(string nome, string descricao) {
             DCategoria Obj = new CamadaDados.DCategoria();
             Obj.Nome = nome;
             Obj.Descricao = descricao;
@@ -17,7 +18,7 @@ namespace CamadaNegocio {
         }
 
         //Metodo Editar
-        public static string Editar(int idcategoria ,string nome, string descricao) {
+        public static string Editar(int idcategoria, string nome, string descricao) {
             DCategoria Obj = new CamadaDados.DCategoria();
             Obj.Idcategoria = idcategoria;
             Obj.Nome = nome;
@@ -33,8 +34,8 @@ namespace CamadaNegocio {
         }
 
         //Metodo Mostrar
-        public static DataTable Mostrar() { 
-            return new DCategoria().Mostrar(); 
+        public static DataTable Mostrar() {
+            return new DCategoria().Mostrar();
         }
 
         //Metodo Buscar Nome

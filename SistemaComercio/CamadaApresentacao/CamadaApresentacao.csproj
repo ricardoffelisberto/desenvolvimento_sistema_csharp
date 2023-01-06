@@ -57,5 +57,11 @@
       <DependentUpon>frmCategoria.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CamadaNegocio\CamadaNegocio.csproj">
+      <Project>{062c48b7-a0d1-4e4f-9efc-99bb54506e7f}</Project>
+      <Name>CamadaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

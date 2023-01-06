@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace CamadaDados
-{
-    public class DCategoria
-    {
+namespace CamadaDados {
+    public class DCategoria {
         private int _Idcategoria;
         private string _Nome;
         private string _Descricao;
@@ -21,7 +19,7 @@ namespace CamadaDados
         public string TextoBuscar { get => _TextoBuscar; set => _TextoBuscar = value; }
 
         //Construtor vazio
-        public DCategoria() { 
+        public DCategoria() {
         }
 
         //Construtor com parâmetros
@@ -44,7 +42,7 @@ namespace CamadaDados
                 SqlCmd.Connection = SqlCon;
                 SqlCmd.CommandText = "spinserir_categoria";
                 SqlCmd.CommandType = CommandType.StoredProcedure;
-                
+
                 SqlParameter ParIdCategoria = new SqlParameter();
                 ParIdCategoria.ParameterName = "@idcategoria";
                 ParIdCategoria.SqlDbType = SqlDbType.Int;
@@ -187,15 +185,15 @@ namespace CamadaDados
                 SqlCmd.CommandText = "spbuscar_nome";
                 SqlCmd.CommandType = CommandType.StoredProcedure;
 
-                SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);
-                SqlDat.Fill(DtResultado);
-
                 SqlParameter ParTextoBuscar = new SqlParameter();
                 ParTextoBuscar.ParameterName = "@textobuscar";
                 ParTextoBuscar.SqlDbType = SqlDbType.VarChar;
                 ParTextoBuscar.Size = 50;
-                ParTextoBuscar.Value = Categoria.Descricao;
+                ParTextoBuscar.Value = Categoria.TextoBuscar;
                 SqlCmd.Parameters.Add(ParTextoBuscar);
+
+                SqlDataAdapter SqlDat = new SqlDataAdapter(SqlCmd);
+                SqlDat.Fill(DtResultado);
 
             } catch (Exception ex) {
                 DtResultado = null;
